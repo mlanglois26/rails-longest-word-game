@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .bc {
+  background-color: rgb(108, 108, 181);
+  display: inline-block;
+ }
